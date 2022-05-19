@@ -2,7 +2,7 @@ import discord # Normal Discord Environment
 from discord.ext import commands # Normal Commands (@bot.command)
 from discord_slash import SlashCommand # Slash Commands (@slash.slash)
 
-bot = commands.Bot(command_prefix=".", intents=discord.Intents.all()) 
+bot = commands.Bot(command_prefix=commands.when_mentioned_or("."), intents=discord.Intents.all()) 
 slash = SlashCommand(bot, sync_commands=True)
 
 @bot.event
