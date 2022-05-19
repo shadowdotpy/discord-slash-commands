@@ -14,3 +14,5 @@ von deinem Bot einfügen. Hier kannst du einen Bot erstellen:
 https://discord.com/developers/applications
 
 Außerdem musst du alle Intents aktivieren.
+Wenn die Slash Commands im Server nicht funktionieren, kannst du
+sie im Private Chat mit dem Bot testen.
