@@ -1,4 +1,4 @@
-# discord-slash-commands
+# Discord Slash Commands Bot
 Eine Vorlage zu einem Discord Bot mit Slash Commands
 
 
