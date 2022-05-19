@@ -12,3 +12,5 @@ Du kannst die Test Commands (Namen, funktion, etc.) ändern.
 In der letzten Zeile bei 'bot.run("DEIN_TOKEN")' musst du das Token
 von deinem Bot einfügen. Hier kannst du einen Bot erstellen:
 https://discord.com/developers/applications
+
+Außerdem musst du alle Intents aktivieren.
